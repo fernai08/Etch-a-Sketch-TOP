@@ -18,8 +18,7 @@ Next steps will include bug fixes (if any) and performance optimizations based o
 - Interactive grid for drawing
 - Adjustable grid size
 - Clear/reset button
-- Color modes (black, rainbow, etc.)
-- Optional dark/light theme
+
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +26,7 @@ Next steps will include bug fixes (if any) and performance optimizations based o
 - CSS
 - JavaScript
 
-## 📸 Screenshot (Coming Soon)
+## 📸 Screenshot 
 
 ![App Dashboard Preview](./media/etch-a-sketch-screenshot.png)
 ## 📃 License
