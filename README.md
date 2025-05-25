@@ -3,6 +3,10 @@
 A simple browser-based Etch-a-Sketch app built with HTML, CSS, and JavaScript.  
 Draw by moving your mouse over the grid — just like the classic toy, but digital!
 
+## Live Demo  
+🚀 Try it here: 
+🌐 **[LINK](https://fernai08.github.io/Etch-a-Sketch-TOP/)**  
+
 ## 🚧 Project Status
 
 The project has been finalized, and its **first stable version (v1.0)** is now complete.  
