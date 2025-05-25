@@ -5,8 +5,13 @@ Draw by moving your mouse over the grid — just like the classic toy, but digit
 
 ## 🚧 Project Status
 
-This project is currently in development.  
-Features and interface may change as things evolve.
+The project has been finalized, and its **first stable version (v1.0)** is now complete.  
+
+### Current Phase: Testing & Optimization  
+- **Cross-device testing**: Ensuring responsiveness across different screen sizes and devices.  
+- **Interactivity checks**: Verifying smooth user interactions and functionality.  
+
+Next steps will include bug fixes (if any) and performance optimizations based on test results. 
 
 ## 🖥️ Features (Planned or Implemented)
 
@@ -24,8 +29,7 @@ Features and interface may change as things evolve.
 
 ## 📸 Screenshot (Coming Soon)
 
-A screenshot or demo GIF will be added once the project is more complete.
-
+![App Dashboard Preview](./media/etch-a-sketch-screenshot.png)
 ## 📃 License
 This project is open-source and available under the MIT License.
 
